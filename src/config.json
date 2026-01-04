@@ -2,15 +2,15 @@
   "site": {
     "url": "https://cloverz.net",
     "title": "CloverZ",
-    "description": "这是一个使用 Astro 和 React 开发的博客主题。",
-    "keywords": "Gyoza,blog,Astro,theme,lxchapu,博客主题",
+    "description": "",
+    "keywords": "",
     "lang": "zh-CN",
     "favicon": "/favicon.ico",
     "appleTouchIcon": "/apple-touch-icon.png"
   },
   "author": {
     "name": "nan",
-    "twitterId": "@elonmusk",
+    "twitterId": "",
     "avatar": "https://i.mji.rip/2025/11/30/9d505fb1c944c2da846019ee360df35d.png"
   },
   "hero": {
